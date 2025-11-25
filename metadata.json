@@ -1,0 +1,5 @@
+{
+  "name": "KTM Transit: Bus Timing Manager",
+  "description": "A smart bus route and timing management application for Kathmandu Valley, powered by Gemini AI to estimate schedules, routes, and traffic patterns.",
+  "requestFramePermissions": []
+}
